@@ -1,1 +1,1 @@
-I am test file!
+This text is being read from inside the Readme.md file
